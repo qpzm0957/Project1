@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<head>
+<title>Tesla's History</title>
+<meta charset="utf-8">
+</head>
+<body>
+<h1>테슬라 주식회사(영어: Tesla, Inc.)</h1>
+<p style="margin-top:70px;">2003년, <u><strong>마틴 에버하드(CEO)</strong></u>와 <u><strong>마크 타페닝(CFO)</strong></u>이 창업했다.
+<br>2004년 페이팔의 최고경영자이던 일론 머스크가 투자자로 참여했다.
+<br>회사 이름은 물리학자이자 전기공학자인 니콜라 테슬라의 이름을 따서 지었다. <BR>2010년 6월 나스닥에 상장되었다.</p>
+<p style="margin-top:60px;"><a href="https://www.w3.org/TR/html5/"target="_blank"title="메가팩에 대한 내용">메가팩</a>: 대용량 에너지 스토리지 모델이다. 최대 3MWh의 에너지 용량으로 1GWh 이상의 대규모 프로젝트를 지원할 수 있다.
+<br>최근 애플이 태양광 연계 에너지저장장치를 캘리포니아 중부에 설치한다고 발표하면서 테슬라 메가팩을 사용하는 것으로 알려졌다.
+<br>파워월: 파워월은 테슬라의 가정용 에너지 스토리지 모델이다. 1기의 전력 용량은 13.5kWh 이다.
+<br>파워월을 태양광 패널과 연결하여 전기를 저장하면, 테슬라 차량 충전에도 사용할 수 있고 가정에 필요한 전기로도 사용할 수 있다.</p>
+<img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/3135/7648.png"width="50%">
+<ol>
+<li>비트코인</li>
+<li>미국주식</li>
+<li>베트남주식</li>
+<li>한국주식</li>
+<li>중국주식</li>
+</ol>
+</body>
